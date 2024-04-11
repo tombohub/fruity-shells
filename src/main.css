@@ -1,0 +1,14 @@
+body {
+    background-color: darkslategrey;
+    color: gainsboro;
+}
+
+body * {
+    border: 0.5px solid gainsboro;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
