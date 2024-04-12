@@ -1,9 +1,9 @@
-import { Apple } from "../lib/Apple";
+import { Strawberry } from "../lib/Strawberry";
 
 function App() {
   return (
     <>
-      <Apple header={"header"} aside="aside" main="main" footer="footer" />
+      <Strawberry header="header" main="main" footer="footer" />
     </>
   );
 }
